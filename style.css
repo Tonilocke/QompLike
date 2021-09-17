@@ -1,0 +1,13 @@
+.screen{
+  width:720px;
+  height: 480px;
+  background-color: #0C0B08;
+}
+
+.qomp{
+  width: 32px;
+  height: 32px;
+  position:absolute;
+  background-color: #EBDCCB;
+  border-radius: 5px;
+}
