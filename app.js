@@ -36,7 +36,7 @@ class Qomp{
         UP = -UP;
       if(this.left <= 0 || this.left >= 688)
         FORWARD = -FORWARD;
-    },5);
+    },10);
   }
 }
 
